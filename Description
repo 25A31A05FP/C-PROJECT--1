@@ -1,0 +1,11 @@
+Description
+
+This is a simple console-based quiz game written in C. The program asks the user four multiple-choice questions. For each correct answer, the user earns one point. At the end, the program displays the total score along with a performance message.
+
+Key features:
+
+Uses printf() to display questions and options
+Uses scanf() to take user input
+Uses if conditions to check correct answers
+Maintains a score counter
+Displays result based on score
