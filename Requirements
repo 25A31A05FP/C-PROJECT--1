@@ -1,0 +1,18 @@
+REQUIREMENTS
+🔹 Functional Requirements
+System must display quiz questions
+System must accept user input
+System must evaluate answers
+System must calculate score
+System must display result
+🔹 Non-Functional Requirements
+Simple and user-friendly interface
+Fast execution (console-based)
+Low memory usage
+Portable (runs on any C compiler)
+🔹 Hardware Requirements
+Basic computer system
+Keyboard (for input)
+🔹 Software Requirements
+C Compiler (e.g., GCC, Turbo C)
+Operating System (Windows/Linux/Mac)
