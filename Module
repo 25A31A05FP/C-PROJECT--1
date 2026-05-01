@@ -1,0 +1,12 @@
+1. Input Module
+Takes user answer using scanf
+Handles user interaction
+2. Question Module
+Displays questions and options
+3. Evaluation Module
+Compares user answer with correct answer
+Updates score
+4. Score Module
+Stores and manages score
+5. Output Module
+Displays final score and message
