@@ -1,0 +1,25 @@
+Algorithm
+
+Step-by-step procedure:
+
+1: Start the program
+2: Initialize score = 0
+3: Display quiz title
+4: Ask Question 1
+  Read user answer
+  If correct → increment score
+5: Ask Question 2
+   Read user answer
+   If correct → increment score
+6: Ask Question 3
+   Read user answer
+    If correct → increment score
+7: Ask Question 4
+   Read user answer
+    If correct → increment score
+8: Display total score
+9: Check score:
+ If score = 4 → print "Excellent"
+ Else if score ≥ 2 → print "Good job"
+ Else → print "Better luck next time"
+10:End program
